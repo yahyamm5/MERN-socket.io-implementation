@@ -1,0 +1,2 @@
+#MERN_socket.io_implementation
+This repository provides a robust, real-time user management system built with the MERN (MongoDB, Express.js, React, Node.js) stack. It integrates Socket.io for instant bi-directional communication and Zustand for efficient, scalable state management. This setup is ideal for building dynamic admin dashboards or collaborative platforms that require live user tracking, instant role updates, and synchronized data across all connected clients.
